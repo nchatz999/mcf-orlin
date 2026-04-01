@@ -1,0 +1,6 @@
+mcf_section3
+mcf_section4
+mcf
+*.o
+*.txt
+__pycache__/
