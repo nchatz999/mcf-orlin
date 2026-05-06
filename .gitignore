@@ -4,3 +4,8 @@ mcf
 *.o
 *.txt
 __pycache__/
+build/
+_minted/
+_minted-*/
+template_assets/
+benchmark.py
